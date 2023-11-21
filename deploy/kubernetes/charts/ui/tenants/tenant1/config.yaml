@@ -1,3 +1,5 @@
-id: 12345
-name: tenant-1
-package: standard
+{
+  "id": 12345,
+  "name": "tenant-1",
+  "package": "standard"
+}
